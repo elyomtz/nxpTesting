@@ -1,0 +1,25 @@
+From fabc3c4b25b87eb649232b401af57c857ff1ecd4 Mon Sep 17 00:00:00 2001
+From: Elyoenai Martinez <elyo.mr@gmail.com>
+Date: Thu, 16 Oct 2025 10:38:11 -0600
+Subject: [PATCH] patch que contiene el link al repo y el video
+To: elyo.mr@hotmail.com
+Cc: elyo_mr@outlook.com
+
+---
+ docs/README.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/docs/README.md b/docs/README.md
+index cd605ba..1864984 100644
+--- a/docs/README.md
++++ b/docs/README.md
+@@ -1 +1,5 @@
+-This is a test 
++Github repository
++github.com/elyomtz/nxpTesting
++
++Link to the video
++github.com/elyomtz/nxpTesting/blob/main/media/Copala1.mp4
+-- 
+2.39.5
+
