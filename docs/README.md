@@ -1,3 +1,6 @@
-Nuevo contenido del README
+Probando el contenido con imágenes
 
-Probando subject y commit con -s
+![BlockDiagram](https://github.com/elyomtz/nxpTesting/blob/main/media/Num1.png)
+
+Continuando con el texto
+
